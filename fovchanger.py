@@ -12,7 +12,6 @@ GetFov = input('Enter fov:')
 #################################
 dwLocalPlayer = 14394812
 m_iDefaultFOV = 13116
-m_hViewModel = 13064
 ################################
 
 
